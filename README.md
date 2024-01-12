@@ -1,6 +1,7 @@
 ### Hello! 👋
 ### Eu Sou O Gabriel Benzoni! 
-### Programador Junior Front-end web JavaScript | React
+### Programador Junior 
+
 
 
 
